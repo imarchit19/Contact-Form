@@ -5,7 +5,7 @@ Hi! This is a template for a Contact form with the details filled inside it bein
 
 
 # Files
-**Important Files: **
+**Important Files:**
 1. config.json
 2. main.py
 3. layout.html
