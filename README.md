@@ -1,4 +1,3 @@
-# Contact_FreshlyBuilt
 # Contact_Form
 
 Hi! This is a template for a Contact form with the details filled inside it being submitted to the admin.
